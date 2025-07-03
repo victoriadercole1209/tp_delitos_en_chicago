@@ -86,10 +86,10 @@ To evaluate the dynamics of domestic violence crimes in Chicago, analyzing trend
 ## 📈 Predictive Modeling (2023)
 
 ## Best Model:
-cant_crimen ~ poly(month_year, 2) * season + Arrest
-R-squared: 0.97
-P-value: 2.2e-06
-Residual Standard Error: 0.2
+* cant_crimen ~ poly(month_year, 2) * season + Arrest
+* R-squared: 0.97
+* P-value: 2.2e-06
+* Residual Standard Error: 0.2
 
 ## Forecast:
 * Projected domestic crime cases for 2023: ~45,036
